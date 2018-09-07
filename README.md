@@ -1,5 +1,4 @@
-# Squeeze and excitation networks
+# RESNET and SE-Resnet.
 
-## Implementation of SE-Resnet
-SE-Resnet is implemented in keras. The model is evaluated on the MNIST dataset.
+Resnet and SE-Resnet are implemented in keras. The models are evaluated on the MNIST dataset.
 
